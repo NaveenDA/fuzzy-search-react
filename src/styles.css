@@ -1,4 +1,75 @@
 .App {
-  font-family: sans-serif;
+  font-family: "Sen", sans-serif;
+}
+.title {
   text-align: center;
+}
+.search-container {
+  width: 400px;
+  margin: 0 auto;
+}
+.search-container input {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  margin: 0;
+  font-variant: tabular-nums;
+  list-style: none;
+  -webkit-font-feature-settings: "tnum";
+  font-feature-settings: "tnum", "tnum";
+  position: relative;
+  display: inline-block;
+  width: 100%;
+  min-width: 0;
+  padding: 4px 11px;
+  color: rgba(0, 0, 0, 0.65);
+  font-size: 14px;
+  line-height: 1.5715;
+  background-color: #fff;
+  background-image: none;
+  border: 1px solid #d9d9d9;
+  border-radius: 2px;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+.search-container input:focus {
+  border-color: #40a9ff;
+  border-right-width: 1px !important;
+  outline: 0;
+  -webkit-box-shadow: 0 0 0 2px rgba(24, 144, 255, 0.2);
+  box-shadow: 0 0 0 2px rgba(24, 144, 255, 0.2);
+}
+
+.item .logo img {
+  width: 30px;
+}
+
+.item-container {
+  width: 78%;
+  margin: 0 auto;
+  margin-top: 45px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.item-container .item {
+  flex: 1 1 260px;
+  margin: 12px;
+}
+
+.item-container .item .logo {
+  width: 12%;
+  float: left;
+}
+.item-container .item .name {
+  width: 88%;
+  float: left;
+}
+.item-container .item .name p {
+  margin-top: 2px;
+}
+
+.tags {
+  color: #686980;
+  font-size: 12px;
 }

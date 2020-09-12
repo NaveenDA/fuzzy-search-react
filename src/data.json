@@ -1,0 +1,104 @@
+[
+  {
+    "name": "Bootstrap",
+    "logo": "https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg",
+    "tags": [
+      "css",
+      "bootstrap",
+      "javascript",
+      "html",
+      "scss",
+      "css-framework",
+      "sass"
+    ]
+  },
+  {
+    "name": "React",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png",
+    "tags": ["javascript", "react", "frontend", "declarative", "ui", "library"]
+  },
+  {
+    "name": "Angular",
+    "logo": "https://angular.io/assets/images/logos/angular/angular.png",
+    "tags": [
+      "angular",
+      "typescript",
+      "web",
+      "javascript",
+      "pwa",
+      "web-framework",
+      "web-performance"
+    ]
+  },
+  {
+    "name": "Vue JS",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png",
+    "tags": ["vue", "javascript", "framework", "frontend"]
+  },
+  {
+    "name": "Ant Design",
+    "logo": "https://gw.alipayobjects.com/zos/rmsportal/KDpgvguMpGfqaHPjicRK.svg",
+    "tags": [
+      "react",
+      "design-systems",
+      "typescript",
+      "ui-kit",
+      "antd",
+      "ant-design",
+      "ui-library"
+    ]
+  },
+  {
+    "name": "Redux",
+    "logo": "http://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png",
+    "tags": ["redux", "state-management"]
+  },
+  {
+    "name": "Git",
+    "logo": "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png",
+    "tags": ["c", "shell", "git"]
+  },
+  {
+    "name": "Grunt",
+    "logo": "https://gruntjs.com/img/og.png",
+    "tags": ["task-runner", "javascript"]
+  },
+  {
+    "name": "jQuery",
+    "logo": "https://w7.pngwing.com/pngs/265/442/png-transparent-jquery-octos-global-javascript-library-document-object-model-ajax-framework-text-trademark-logo-thumbnail.png",
+    "tags": ["jquery", "css-selector", "library"]
+  },
+  {
+    "name": "D3.js",
+    "logo": "https://raw.githubusercontent.com/d3/d3-logo/master/d3.png",
+    "tags": ["visualization", "data"]
+  },
+  {
+    "name": "Babel",
+    "logo": "https://user-images.githubusercontent.com/3025322/87547253-bf050400-c6a2-11ea-950a-280311bc6cc8.png",
+    "tags": [
+      "babel",
+      "javascript",
+      "es6",
+      "compiler",
+      "es2015",
+      "ast",
+      "flavortown"
+    ]
+  },
+  {
+    "name": "Karma",
+    "logo": "https://pvlastaridis.files.wordpress.com/2016/02/karma-logo.png?w=660",
+    "tags": [
+      "karma",
+      "test-runner",
+      "qunit",
+      "mocha",
+      "jasmine",
+      "javascript",
+      "browser",
+      "tdd",
+      "bdd"
+    ]
+  }
+]
